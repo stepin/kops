@@ -1,0 +1,4 @@
+docker run --name=build-kops -it -v ~/go/src/k8s.io/kops:/go/src/k8s.io/kops golang:1.8 bash
+cd /go/src/k8s.io/kops
+make
+docker cp build-kops:/go/bin/kops .
