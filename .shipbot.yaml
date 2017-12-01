@@ -1,4 +1,4 @@
-owner: kubernetes
+owner: stepin
 repo: kops
 assets:
   - source: .build/dist/darwin/amd64/kops

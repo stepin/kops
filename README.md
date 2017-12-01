@@ -1,6 +1,11 @@
 # Kubernetes Operations (kops)
 
-[![Build Status](https://travis-ci.org/kubernetes/kops.svg?branch=master)](https://travis-ci.org/kubernetes/kops) [![Go Report Card](https://goreportcard.com/badge/k8s.io/kops)](https://goreportcard.com/report/k8s.io/kops)  [![GoDoc Widget]][GoDoc]
+[![GitHub release](https://img.shields.io/github/release/stepin/kops)](https://github.com/stepin/kops/releases)
+[![Build Status](https://travis-ci.org/stepin/kops.svg?branch=master)](https://travis-ci.org/stepin/kops)
+[![Go Report Card](https://goreportcard.com/badge/github.com/stepin/kops)](https://goreportcard.com/report/stepin/kops)
+<br><br>
+
+ [![GoDoc Widget]][GoDoc]
 
 [GoDoc]: https://godoc.org/k8s.io/kops
 [GoDoc Widget]: https://godoc.org/k8s.io/kops?status.svg
